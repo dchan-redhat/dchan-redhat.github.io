@@ -1,6 +1,8 @@
-# Ansible Workshop - Ansible for Red Hat Enterprise Linux (90 mins)
+# Ansible Workshop - Ansible Automation Technical Workshop - 18 Aug 2021
 
 Ansible is a simple yet powerful IT automation engine for application deployment, configuration management, and orchestration that you can learn quickly.
+
+[Get the Lab Environment](http://6c9c.example.opentlc.com/)
 
 ## Table of Contents
 
