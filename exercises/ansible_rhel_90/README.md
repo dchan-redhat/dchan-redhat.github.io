@@ -2,8 +2,7 @@
 
 Ansible is a simple yet powerful IT automation engine for application deployment, configuration management, and orchestration that you can learn quickly.
 
-[Get the Lab Environment](http://6c9c.example.opentlc.com/)
-<a href="http://6c9c.example.opentlc.com/" target="_blank">Hello, world!</a>
+<a href="http://6c9c.example.opentlc.com/" target="_blank">Get the Lab Environment</a>
 
 ## Table of Contents
 
