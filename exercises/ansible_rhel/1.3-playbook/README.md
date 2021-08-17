@@ -86,7 +86,7 @@ On your control host **ansible**, create a directory called `ansible-files` in y
 [student<X>@ansible-1 ~]$ cd ansible-files/
 ```
 
-Add a file called `apache.yml` with the following content. As discussed in the previous exercises, use `vi`/`vim` or, if you are new to editors on the command line, check out the [editor intro](../0.0-support-docs/editor_intro.md) again.
+Add a file called `apache.yml` with the following content. As discussed in the previous exercises, use `vi`/`vim` or, if you are new to editors on the command line.
 
 ```yaml
 ---
