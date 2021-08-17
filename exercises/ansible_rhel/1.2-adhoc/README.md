@@ -307,7 +307,6 @@ Run the `ansible node1 -m copy -a 'content="Managed by Ansible\n" dest=/etc/motd
 
 ---
 **Navigation**
-<br>
-[Previous Exercise](../1.1-setup) - [Next Exercise](../1.3-playbook)
+
 
 [Click here to return to the Ansible for Red Hat Enterprise Linux Workshop](../README.md)
