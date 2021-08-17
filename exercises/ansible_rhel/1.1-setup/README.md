@@ -100,7 +100,5 @@ You will soon discover that many chapters in this lab guide come with a "Challen
 
 ---
 **Navigation**
-<br>
-[Next Exercise](2-adhoc)
 <br><br>
 [Click here to return to the Ansible for Red Hat Enterprise Linux Workshop](../README.md)
