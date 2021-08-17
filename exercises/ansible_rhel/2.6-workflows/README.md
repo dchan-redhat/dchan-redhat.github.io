@@ -303,4 +303,4 @@ You can also execute curl on the control host, pointing it towards the nodes and
 **Navigation**
 <br>
 
-[Click here to return to the Ansible for Red Hat Enterprise Linux Workshop](../ansible_rhel_90/README.md#section-1---ansible-engine-exercises)
+[Click here to return to the Ansible for Red Hat Enterprise Linux Workshop](../../ansible_rhel_90/README.md#section-1---ansible-engine-exercises)
