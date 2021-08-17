@@ -340,7 +340,5 @@ Finally check if Apache is now running on both servers. Identify the IP addresse
 
 ---
 **Navigation**
-<br>
-[Previous Exercise](../1.2-adhoc) - [Next Exercise](../1.4-variables)
 
 [Click here to return to the Ansible for Red Hat Enterprise Linux Workshop](../README.md#section-1---ansible-engine-exercises)
